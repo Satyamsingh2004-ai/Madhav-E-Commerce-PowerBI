@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Author
 
-**Vibhu Singh**
+**Satyam Singh**
 
 **Project:** Madhav E-Commerce Sales Analysis Dashboard
 **Tool:** Microsoft Power BI
